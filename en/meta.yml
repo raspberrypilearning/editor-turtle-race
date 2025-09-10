@@ -6,14 +6,4 @@ listed: false
 copyedit: false
 last_tested: "2025-01-01"
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Next step title
-    completion:
-      - internal
-  - title: Challenge
-    challenge: true
-    completion:
-      - external
+  - title: Step 1
