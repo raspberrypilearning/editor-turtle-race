@@ -28,7 +28,7 @@ speed(10)
 </div>
 
 <div class="c-project-output">
-![the track turtle moved to the top left, ready to draw](images/step_5.png)
+![numbers 0 to 11 across the top with a small arrow at the right](images/step_5.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

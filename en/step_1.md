@@ -33,7 +33,7 @@ ada.pendown()
 </div>
 
 <div class="c-project-output">
-![4 turtles of different colours aranged in a vertical line on the screen](images/step_1.png)
+![one red turtle at the left side of the screen](images/step_1.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

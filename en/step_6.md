@@ -28,7 +28,7 @@ for step in range(12):
 </div>
 
 <div class="c-project-output">
-![numbers 0 to 11 written along the top of the track](images/step_6.png)
+![a small arrow at the top left with the turtles lined up on the left](images/step_6.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

@@ -31,7 +31,7 @@ kai.pendown()
 </div>
 
 <div class="c-project-output">
-![4 turtles of different colours lined up on the track](images/step_4.png)
+![four turtles, red, orange, yellow, and green, lined up on the left](images/step_4.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

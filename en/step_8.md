@@ -30,7 +30,7 @@ for turn in range(100):
 </div>
 
 <div class="c-project-output">
-![four turtles racing forward at different speeds](images/step_8.png)
+![four turtles racing across coloured lane lines](images/step_8.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
