@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Add a third turtle</h2>
 
-Now your race needs one more turtle.
+Now your race needs a third turtle.
 
 <h2 class="c-project-heading--explainer">Hello, Eve! 🐢</h2>
 
@@ -47,6 +47,6 @@ eve.pendown()
 
 ### Debugging
 
-- Make sure you used `eve` in every line for this turtle.
+- If you're copying and pasting, make sure you used `eve` in every line for this turtle.
 
 </div>

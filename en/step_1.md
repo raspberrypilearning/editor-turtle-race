@@ -8,7 +8,7 @@ Create your first racing turtle and get it ready at the starting line.
 
 Start by adding one turtle to the screen.
 
-You can name the turtle anything you like — here, it is called `ada`. 
+You can name the turtle anything you like. Here, it is called `ada`.
 
 This turtle gets a colour and shape, then moves to its starting position on the track.
 
@@ -41,7 +41,7 @@ ada.pendown()
 ### Tip
 
 - You can change the colour of the turtle to anything you like.
-- The `goto` sets the `x` and `y` postition of the turtle on the screen.
+- The `goto` sets the `x` and `y` position of the turtle on the screen.
 
 </div>
 

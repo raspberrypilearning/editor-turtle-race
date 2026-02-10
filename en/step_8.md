@@ -38,7 +38,7 @@ for turn in range(100):
 ### Tip
 
 - `randint(1,5)` picks a random number from 1 to 5.
-- Bigger numbers make a turtle move farther each turn.
+- Bigger numbers make a turtle move further each turn.
 
 </div>
 
