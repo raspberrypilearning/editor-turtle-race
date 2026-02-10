@@ -31,7 +31,7 @@ bob.pendown()
 </div>
 
 <div class="c-project-output">
-![2 turtles of different colours lined up on the track](images/step_2.png)
+![two turtles, red and orange, lined up on the left](images/step_2.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

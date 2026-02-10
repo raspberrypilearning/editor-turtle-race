@@ -31,7 +31,7 @@ eve.pendown()
 </div>
 
 <div class="c-project-output">
-![3 turtles of different colours lined up on the track](images/step_3.png)
+![three turtles, red, orange, and yellow, lined up on the left](images/step_3.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">

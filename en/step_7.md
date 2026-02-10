@@ -34,7 +34,7 @@ for step in range(12):
 </div>
 
 <div class="c-project-output">
-![lane lines drawn down the track under each number](images/step_7.png)
+![numbers 0 to 11 with vertical lane lines and turtles on the left](images/step_7.png)
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
