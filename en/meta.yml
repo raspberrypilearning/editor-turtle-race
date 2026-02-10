@@ -8,9 +8,15 @@ last_tested: "2025-01-01"
 steps:
   - title: Step 1
   - title: Step 2
+    completion:
+      - engaged
   - title: Step 3
   - title: Step 4
   - title: Step 5
   - title: Step 6
   - title: Step 7
   - title: Step 8
+    completion:
+      - internal
+      - external
+
