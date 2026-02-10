@@ -30,6 +30,7 @@ for step in range(12):
     backward(160)
     left(90)
     write(step, align = 'center')
+    forward(20)
 --- /code ---
 </div>
 
