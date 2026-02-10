@@ -1,3 +1,17 @@
+<h2 class="c-project-heading--task">Get the track pen ready</h2>
+
+Now set up the turtle that will draw the race track.
+
+<h2 class="c-project-heading--explainer">Ready, set, draw! ✏️</h2>
+
+--- task ---
+
+Lift the pen so no line is drawn.
+
+Move to the top-left corner of the track and make the turtle draw fast.
+
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -11,4 +25,25 @@ penup()
 goto(-140, 140)
 speed(10)
 --- /code ---
+</div>
+
+<div class="c-project-output">
+![the track turtle moved to the top left, ready to draw](images/step_5.png)
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+- `speed(10)` makes drawing faster so you do not have to wait.
+- `goto(-140, 140)` moves to the top-left corner of the track.
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+- If you see a line, make sure `penup()` comes before `goto()`.
+
 </div>

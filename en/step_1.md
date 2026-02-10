@@ -31,3 +31,24 @@ ada.goto(-160, 100)
 ada.pendown()
 --- /code ---
 </div>
+
+<div class="c-project-output">
+![4 turtles of different colours aranged in a vertical line on the screen](images/step_1.png)
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+- You can change the colour of the turtle to anything you like.
+- The `goto` sets the `x` and `y` postition of the turtle on the screen.
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+- Make sure you have quotes around the colour - `'red'`
+
+</div>

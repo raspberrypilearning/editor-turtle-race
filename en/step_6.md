@@ -1,3 +1,17 @@
+<h2 class="c-project-heading--task">Number the track</h2>
+
+Add number markers along the top of the race track.
+
+<h2 class="c-project-heading--explainer">Count the steps! 🔢</h2>
+
+--- task ---
+
+Use a loop to write the numbers `0` to `11`.
+
+After writing each number, move forward to the next spot.
+
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -11,4 +25,25 @@ for step in range(12):
     write(step, align = 'center')
     forward(20)
 --- /code ---
+</div>
+
+<div class="c-project-output">
+![numbers 0 to 11 written along the top of the track](images/step_6.png)
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+- `range(12)` gives you the numbers `0` to `11`.
+- `write(step)` prints the number on the screen.
+
+</div>
+
+<div class="c-project-callout c-project-callout--debug">
+
+### Debugging
+
+- If all the numbers sit on top of each other, check `forward(20)` is inside the loop.
+
 </div>
