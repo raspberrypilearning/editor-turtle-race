@@ -8,7 +8,7 @@ Now your race needs a third turtle.
 
 Create a turtle named `eve`.
 
-Give Eve a colour and shape, then move her to the starting line below Bob.
+Give Eve a [colour](https://www.tcl-lang.org/man/tcl8.5/TkCmd/colors.htm) and shape, then move her to the starting line below Bob.
 
 --- /task ---
 

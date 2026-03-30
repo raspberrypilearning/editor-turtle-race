@@ -1,12 +1,12 @@
-<h2 class="c-project-heading--task">Draw the race lanes</h2>
+<h2 class="c-project-heading--task">Draw the race markers</h2>
 
-Add the long lane lines under each number.
+Add the race markers under each number.
 
 <h2 class="c-project-heading--explainer">Make the track! 🏁</h2>
 
 --- task ---
 
-Inside the loop, turn and draw a line down for each lane.
+Inside the loop, turn and draw a line down for each marker.
 
 Then move back up, face forward again, and write the next number.
 
@@ -42,7 +42,7 @@ for step in range(12):
 
 ### Tip
 
-- `pendown()` starts drawing the lane line.
+- `pendown()` starts drawing the lane markers.
 - `penup()` lifts the pen so you can move without drawing.
 
 </div>
