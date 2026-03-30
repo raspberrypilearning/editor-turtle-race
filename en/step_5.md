@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Get the track pen ready</h2>
 
-Now set up the turtle that will draw the race track.
+Now set up the turtle that will draw the race track. This will just have the basic arrow shape when it draws.
 
 <h2 class="c-project-heading--explainer">Ready, set, draw! ✏️</h2>
 
@@ -8,7 +8,7 @@ Now set up the turtle that will draw the race track.
 
 Lift the pen so no line is drawn.
 
-Move to the top-left corner of the track and make the turtle draw fast.
+Move to the top-left corner of the track and make the turtle move fast.
 
 --- /task ---
 
