@@ -4,7 +4,7 @@ Give your race a second speedy turtle.
 
 <h2 class="c-project-heading--explainer">Meet Bob! 🐢</h2>
 
---- task ---
+### Step 1
 
 Create a new turtle called `bob`.
 
@@ -12,7 +12,6 @@ Set Bob’s colour and shape, then move him to the next starting spot.
 
 Bob is almost the same as Ada. Just the colour and position change. The important lines that make Bob different are highlighted.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

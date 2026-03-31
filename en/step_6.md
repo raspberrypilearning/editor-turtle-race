@@ -4,13 +4,12 @@ Add number markers along the top of the race track.
 
 <h2 class="c-project-heading--explainer">Count the steps! 🔢</h2>
 
---- task ---
+### Step 1
 
 Use a loop to write the numbers `0` to `11`.
 
 After writing each number, move forward to the next spot.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

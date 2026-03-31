@@ -4,13 +4,12 @@ Every race needs a full line-up.
 
 <h2 class="c-project-heading--explainer">Say hi to Kai! 🐢</h2>
 
---- task ---
+### Step 1
 
 Create a turtle called `kai`.
 
 Set the colour and shape, then move Kai to the last starting spot.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
