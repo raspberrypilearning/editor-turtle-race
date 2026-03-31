@@ -7,17 +7,17 @@ copyedit: false
 last_tested: "2025-01-01"
 landing: true
 steps:
-  - title: Step 1
-  - title: Step 2
+  - title: Add a turtle
+  - title: Add another turtle
     completion:
       - engaged
-  - title: Step 3
-  - title: Step 4
-  - title: Step 5
-  - title: Step 6
-  - title: Step 7
-  - title: Step 8
+  - title: Add a third turtle
+  - title: Add the fourth turtle
+  - title: Get the track pen ready
+  - title: Number the track
     completion:
       - internal
+  - title: Draw the race markers
+  - title: Start the race
+    completion:
       - external
-

@@ -4,13 +4,12 @@ Now set up the turtle that will draw the race track. This will just have the bas
 
 <h2 class="c-project-heading--explainer">Ready, set, draw! ✏️</h2>
 
---- task ---
+### Step 1
 
 Lift the pen so no line is drawn.
 
 Move to the top-left corner of the track and make the turtle move fast.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

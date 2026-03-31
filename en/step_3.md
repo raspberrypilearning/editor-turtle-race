@@ -4,13 +4,12 @@ Now your race needs a third turtle.
 
 <h2 class="c-project-heading--explainer">Hello, Eve! 🐢</h2>
 
---- task ---
+### Step 1
 
 Create a turtle named `eve`.
 
 Give Eve a [colour](https://www.tcl-lang.org/man/tcl8.5/TkCmd/colors.htm) and shape, then move her to the starting line below Bob.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

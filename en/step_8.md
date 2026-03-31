@@ -4,13 +4,12 @@ Make the turtles move forward a random amount each turn.
 
 <h2 class="c-project-heading--explainer">Let them race! 🐢🐢🐢🐢</h2>
 
---- task ---
+### Step 1
 
 Use a loop to take 100 turns.
 
 On each turn, move every turtle forward by a random number of steps.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

@@ -4,7 +4,7 @@ Create your first racing turtle and get it ready at the starting line.
 
 <h2 class="c-project-heading--explainer">Say hello to Ada! 🐢</h2>
 
---- task ---
+### Step 1
 
 Start by adding one turtle to the screen.
 
@@ -12,7 +12,6 @@ You can name the turtle anything you like. Here, it is called `ada`.
 
 This turtle gets a colour and shape, then moves to its starting position on the track.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

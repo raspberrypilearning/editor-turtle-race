@@ -4,13 +4,12 @@ Add the race markers under each number.
 
 <h2 class="c-project-heading--explainer">Make the track! 🏁</h2>
 
---- task ---
+### Step 1
 
 Inside the loop, turn and draw a line down for each marker.
 
 Then move back up, face forward again, and write the next number.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
