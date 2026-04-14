@@ -4,8 +4,4 @@ Create a turtle race program with four racers, numbered lanes, and random moveme
 
 Run the project to watch the turtles race across the screen and see which one reaches the finish line first.
 
-<div class="c-project-output">
-
-![Finished turtle race project](images/step_8.png)
-
-</div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-turtle-race-complete" width="400" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
