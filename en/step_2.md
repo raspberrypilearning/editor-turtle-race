@@ -4,8 +4,6 @@ Give your race a second speedy turtle.
 
 <h2 class="c-project-heading--explainer">Meet Bob! 🐢</h2>
 
-### Step 1
-
 Create a new turtle called `bob`.
 
 Set Bob’s colour and shape, then move him to the next starting spot.
@@ -35,19 +33,23 @@ bob.pendown()
 ![two turtles, red and orange, lined up on the left](images/step_2.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - You can pick any colour name you like for `bob`.
 - `penup()` stops the turtle drawing a line while it moves.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 - Check `bob` has a colour in quotes, like `'orange'`.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

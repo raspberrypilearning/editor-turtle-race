@@ -4,8 +4,6 @@ Add number markers along the top of the race track.
 
 <h2 class="c-project-heading--explainer">Count the steps! 🔢</h2>
 
-### Step 1
-
 Use a loop to write the numbers `0` to `11`.
 
 After writing each number, move forward to the next spot.
@@ -30,19 +28,23 @@ for step in range(12):
 ![a small arrow at the top left with the turtles lined up on the left](images/step_6.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - `range(12)` gives you the numbers `0` to `11`.
 - `write(step)` prints the number on the screen.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 - If all the numbers sit on top of each other, check `forward(20)` is inside the loop.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

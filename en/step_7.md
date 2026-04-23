@@ -4,8 +4,6 @@ Add the race markers under each number.
 
 <h2 class="c-project-heading--explainer">Make the track! 🏁</h2>
 
-### Step 1
-
 Inside the loop, turn and draw a line down for each marker.
 
 Then move back up, face forward again, and write the next number.
@@ -37,19 +35,23 @@ for step in range(12):
 ![numbers 0 to 11 with vertical lane lines and turtles on the left](images/step_7.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - `pendown()` starts drawing the lane markers.
 - `penup()` lifts the pen so you can move without drawing.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 - If your lines go the wrong way, check the `right(90)` and `left(90)` turns.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.
