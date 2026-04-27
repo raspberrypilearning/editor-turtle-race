@@ -50,4 +50,4 @@ eve.pendown()
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that three turtles are lined up on the left.

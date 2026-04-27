@@ -49,4 +49,4 @@ for turn in range(100):
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the turtles start moving across the track.

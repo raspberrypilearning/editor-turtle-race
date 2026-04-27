@@ -54,4 +54,4 @@ for step in range(12):
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that vertical lane lines are drawn under the numbers.

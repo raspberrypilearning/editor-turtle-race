@@ -50,4 +50,4 @@ kai.pendown()
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that four turtles are lined up on the left.

@@ -52,4 +52,4 @@ bob.pendown()
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that two turtles are lined up on the left, one above the other.

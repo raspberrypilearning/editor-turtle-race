@@ -49,4 +49,4 @@ speed(10)
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the numbers `0` to `11` appear across the top of the track.
