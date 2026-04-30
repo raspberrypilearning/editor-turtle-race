@@ -4,8 +4,6 @@ Every race needs a full line-up.
 
 <h2 class="c-project-heading--explainer">Say hi to Kai! 🐢</h2>
 
-### Step 1
-
 Create a turtle called `kai`.
 
 Set the colour and shape, then move Kai to the last starting spot.
@@ -33,19 +31,23 @@ kai.pendown()
 ![four turtles, red, orange, yellow, and green, lined up on the left](images/step_4.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - Give `kai` a colour that stands out from the others.
 - Each turtle sits on a different y-position so they do not overlap.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 - Check `goto(-160, 10)` uses a comma between x and y.
 
 </div>
+
+## Now run your code
+
+Run your code and check that four turtles are lined up on the left.

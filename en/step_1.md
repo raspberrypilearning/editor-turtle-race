@@ -4,8 +4,6 @@ Create your first racing turtle and get it ready at the starting line.
 
 <h2 class="c-project-heading--explainer">Say hello to Ada! 🐢</h2>
 
-### Step 1
-
 Start by adding one turtle to the screen.
 
 You can name the turtle anything you like. Here, it is called `ada`.
@@ -35,19 +33,23 @@ ada.pendown()
 ![one red turtle at the left side of the screen](images/step_1.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - You can change the colour of the turtle to anything you like.
 - The `goto` sets the `x` and `y` position of the turtle on the screen.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 - Make sure you have quotes around the colour - `'red'`
 
 </div>
+
+## Now run your code
+
+Run your code and check that one turtle appears at the left side of the screen.

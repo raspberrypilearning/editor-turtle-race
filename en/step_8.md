@@ -4,8 +4,6 @@ Make the turtles move forward a random amount each turn.
 
 <h2 class="c-project-heading--explainer">Let them race! 🐢🐢🐢🐢</h2>
 
-### Step 1
-
 Use a loop to take 100 turns.
 
 On each turn, move every turtle forward by a random number of steps.
@@ -32,19 +30,23 @@ for turn in range(100):
 ![four turtles racing across coloured lane lines](images/step_8.png)
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - `randint(1,5)` picks a random number from 1 to 5.
 - Bigger numbers make a turtle move further each turn.
 
 </div>
 
-<div class="c-project-callout c-project-callout--debug">
-
 ### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
 
 - If you see an error, check you wrote `randint(1,5)` with brackets and a comma.
 
 </div>
+
+## Now run your code
+
+Run your code and check that the turtles start moving across the track.
