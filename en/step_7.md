@@ -4,9 +4,9 @@ Add the race markers under each number.
 
 <h2 class="c-project-heading--explainer">Make the track! 🏁</h2>
 
-Inside the loop, turn and draw a line down for each marker.
+Inside the loop, make the arrow turtle turn and draw a line down for each marker.
 
-Then move back up, face forward again, and write the next number.
+Then move it back up, face forward again, and write the next number.
 
 
 <div class="c-project-code">
