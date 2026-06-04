@@ -27,7 +27,7 @@ speed(10)
 </div>
 
 <div class="c-project-output">
-![numbers 0 to 11 across the top with a small arrow at the right](images/step_5.png)
+![turtle's shown with cursor ready to draw lines](images/step_5.png)
 </div>
 
 ### Tip
@@ -49,4 +49,4 @@ speed(10)
 
 ## Now run your code
 
-Run your code and check that the numbers `0` to `11` appear across the top of the track.
+Run your code and check that the cursor is in the correct position
