@@ -9,4 +9,5 @@ files:
     translation: /%locale%/**/%original_file_name%
     ignore:
       - /en/**/*.pdf
-      - /en/**/*.mp3
+      - /en/**/*.mp4
+      - /en/**/*.zip
