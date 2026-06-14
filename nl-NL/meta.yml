@@ -1,0 +1,23 @@
+title: Schildpadden race
+hero_image: images/banner.png
+description: Gebruik de random-functie om twee schildpadden tegen elkaar te laten racen. De snelste wint.
+version: 1
+listed: true
+copyedit: false
+last_tested: "2025-01-01"
+landing: true
+steps:
+  - title: Voeg een schildpad toe
+  - title: Voeg nog een schildpad toe
+    completion:
+      - engaged
+  - title: Voeg een derde schildpad toe
+  - title: Voeg de vierde schildpad toe
+  - title: Zorg dat de pen voor de baan klaarstaat
+  - title: Geef nummers aan de baan
+    completion:
+      - internal
+  - title: Teken de markeringen voor de race
+  - title: Start de race
+    completion:
+      - external

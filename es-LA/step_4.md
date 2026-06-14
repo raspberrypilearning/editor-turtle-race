@@ -1,0 +1,52 @@
+<h2 class="c-project-heading--task">Add the fourth turtle</h2>
+
+Every race needs a full line-up.
+
+<h2 class="c-project-heading--explainer">Say hi to Kai! 🐢</h2>
+
+Create a turtle called `kai`.
+
+Set the colour and shape, then move Kai to the last starting spot.
+
+<div class="c-project-code">
+--- code ---
+---
+language: python
+filename: main.py
+line_numbers: true
+line_number_start: 25
+line_highlights: 25, 26, 29
+---
+kai = Turtle()
+kai.color('green')
+kai.shape('turtle')
+kai.penup()
+kai.goto(-160, 10)
+kai.pendown()
+--- /code ---
+</div>
+
+<div class="c-project-output">
+![four turtles, red, orange, yellow, and green, lined up on the left](images/step_4.png)
+</div>
+
+### Tip
+
+<div class="c-project-callout c-project-callout--tip">
+
+- Give `kai` a colour that stands out from the others.
+- Each turtle sits on a different y-position so they do not overlap.
+
+</div>
+
+### Debugging
+
+<div class="c-project-callout c-project-callout--debug">
+
+- Check `goto(-160, 10)` uses a comma between x and y.
+
+</div>
+
+## Now run your code
+
+Run your code and check that four turtles are lined up on the left.

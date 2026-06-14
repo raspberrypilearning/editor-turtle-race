@@ -1,0 +1,4 @@
+name: "Schildpaddenrace start project"
+identifier: "editor-turtle-race-starter"
+type: 'python'
+build: true
