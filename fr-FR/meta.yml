@@ -1,0 +1,23 @@
+title: Course de tortues
+hero_image: images/banner.png
+description: Utilise "random" pour faire courir deux tortues. La première à franchir la ligne d'arrivée gagne.
+version: 1
+listed: true
+copyedit: false
+last_tested: "2025-01-01"
+landing: true
+steps:
+  - title: Ajouter une tortue
+  - title: Ajouter une autre tortue
+    completion:
+      - engaged
+  - title: Ajouter une troisième tortue
+  - title: Ajouter la quatrième tortue
+  - title: Préparer le marqueur de piste
+  - title: Numéroter la piste
+    completion:
+      - internal
+  - title: Tracer les marqueurs de course
+  - title: Démarrer la course
+    completion:
+      - external
