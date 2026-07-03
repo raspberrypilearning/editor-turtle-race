@@ -17,12 +17,12 @@ line_numbers: true
 line_number_start: 18
 line_highlights: 18, 19, 22
 ---
-eve = Turtle()
-eve.color('yellow')
-eve.shape('turtle')
-eve.penup()
-eve.goto(-160, 40)
-eve.pendown()
+eva = Turtle()
+eva.color('yellow')
+eva.shape('turtle')
+eva.penup()
+eva.goto(-160, 40)
+eva.pendown()
 --- /code ---
 </div>
 

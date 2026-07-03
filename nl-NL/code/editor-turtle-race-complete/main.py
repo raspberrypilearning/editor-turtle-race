@@ -15,12 +15,12 @@ bob.penup()
 bob.goto(-160, 70)
 bob.pendown()
 
-eve = Turtle()
-eve.color('yellow')
-eve.shape('turtle')
-eve.penup()
-eve.goto(-160, 40)
-eve.pendown()
+eva = Turtle()
+eva.color('yellow')
+eva.shape('turtle')
+eva.penup()
+eva.goto(-160, 40)
+eva.pendown()
 
 kai = Turtle()
 kai.color('green')
@@ -33,7 +33,7 @@ penup()
 goto(-140, 140)
 speed(10)
 
-for step in range(12):
+for stap in range(12):
     right(90)
     forward(10)
     pendown()
@@ -41,13 +41,13 @@ for step in range(12):
     penup()
     backward(160)
     left(90)
-    write(step, align='center')
+    write(stap, align='center')
     forward(20)
 
-for turn in range(100):
+for draai in range(100):
     ada.forward(randint(1, 5))
     bob.forward(randint(1, 5))
-    eve.forward(randint(1, 5))
+    eva.forward(randint(1, 5))
     kai.forward(randint(1, 5))
 
 done()

@@ -17,7 +17,7 @@ line_numbers: true
 line_number_start: 36
 line_highlights:
 ---
-for step in range(12):
+for stap in range(12):
     write(step, align = 'center')
     forward(20)
 --- /code ---

@@ -17,10 +17,10 @@ line_numbers: true
 line_number_start: 47
 line_highlights:
 ---
-for turn in range(100):
+for draai in range(100):
     ada.forward(randint(1,5))
     bob.forward(randint(1,5))
-    eve.forward(randint(1,5))
+    eva.forward(randint(1,5))
     kai.forward(randint(1,5))
 --- /code ---
 </div>
@@ -53,10 +53,7 @@ Voer je code uit en controleer of de schildpadden over de baan beginnen te beweg
 ***
 Dit project werd vertaald door vrijwilligers:
 
-[name]
-
-[name]
-
-[name]
+Iny van Beuningen
+Robert-Jan Kempenaar
 
 Dankzij vrijwilligers kunnen we mensen over de hele wereld de kans geven om in hun eigen taal te leren. Jij kunt ons helpen meer mensen te bereiken door vrijwillig te starten met vertalen - meer informatie op [rpf.io/translate](https://rpf.io/translate).
