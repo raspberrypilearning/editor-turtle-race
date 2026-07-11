@@ -1,23 +1,14 @@
-<h2 class="c-project-heading--task">Draw the race markers</h2>
+## Draw the race markers
 
 Add the race markers under each number.
 
-<h2 class="c-project-heading--explainer">Make the track! 🏁</h2>
+**Make the track! 🏁**
 
 Inside the loop, make the arrow turtle turn and draw a line down for each marker.
 
 Then move it back up, face forward again, and write the next number.
 
-
-<div class="c-project-code">
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 36
-line_highlights: 38-44
----
+```python filename="main.py" line_numbers="true" line_number_start="36" line_highlights="38-44"
 for step in range(12):
     right(90)
     forward(10)
@@ -28,30 +19,19 @@ for step in range(12):
     left(90)
     write(step, align = 'center')
     forward(20)
---- /code ---
-</div>
+```
 
-<div class="c-project-output">
-![numbers 0 to 11 with vertical lane lines and turtles on the left](images/step_7.png)
-</div>
+> [!TIP]
+>
+> - `pendown()` starts drawing the lane markers.
+> - `penup()` lifts the pen so you can move without drawing.
 
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-- `pendown()` starts drawing the lane markers.
-- `penup()` lifts the pen so you can move without drawing.
-
-</div>
-
-### Debugging
-
-<div class="c-project-callout c-project-callout--debug">
-
-- If your lines go the wrong way, check the `right(90)` and `left(90)` turns.
-
-</div>
+> [!DEBUG]
+>
+> - If your lines go the wrong way, check the `right(90)` and `left(90)` turns.
 
 ## Now run your code
 
 Run your code and check that vertical lane lines are drawn under the numbers.
+
+![numbers 0 to 11 with vertical lane lines and turtles on the left](images/step_7.png)
