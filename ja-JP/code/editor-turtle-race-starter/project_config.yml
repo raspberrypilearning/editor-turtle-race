@@ -1,0 +1,4 @@
+name: "Turtle race starter"
+identifier: "editor-turtle-race-starter"
+type: 'python'
+build: true
