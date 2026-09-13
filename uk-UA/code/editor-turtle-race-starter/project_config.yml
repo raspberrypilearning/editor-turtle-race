@@ -1,0 +1,4 @@
+name: "Початок перегонів черепах"
+identifier: "editor-turtle-race-starter"
+type: 'python'
+build: true
