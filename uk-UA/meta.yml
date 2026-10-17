@@ -1,0 +1,23 @@
+title: Черепаші перегони
+hero_image: images/banner.png
+description: Налаштуй випадкові перегони двох черепах. Яка досягне фінішу першою - перемагає.
+version: 1
+listed: true
+copyedit: false
+last_tested: "2025-01-01"
+landing: true
+steps:
+  - title: Додай черепаху
+  - title: Додай ще одну черепаху
+    completion:
+      - engaged
+  - title: Додай третю черепаху
+  - title: Додай четверту черепаху
+  - title: Підготуй трек до малювання
+  - title: Кількість треків
+    completion:
+      - internal
+  - title: Намалюй маркери перегонів
+  - title: Почни перегони
+    completion:
+      - external
