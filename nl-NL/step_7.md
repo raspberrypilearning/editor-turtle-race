@@ -1,23 +1,15 @@
-<h2 class="c-project-heading--task">Teken de markeringen voor de race</h2>
+## Draw the race markers
 
 Plaats de racemarkeringen onder elk nummer.
 
-<h2 class="c-project-heading--explainer">Maak de baan! 🏁</h2>
+**Make the track! 🏁**
 
 Binnen de lus laat je de pijl-schildpad draaien en trek je voor elke markering een lijn naar beneden.
 
 Zet de schildpad weer bovenaan met zijn gezicht naar voren en schrijf het volgende getal.
 
-<div class="c-project-code">
---- code ---
----
-language: python
-filename: main.py
-line_numbers: true
-line_number_start: 36
-line_highlights: 38-44
----
-for stap in range(12):
+```python filename="main.py" line_numbers="true" line_number_start="36" line_highlights="38-44"
+for step in range(12):
     right(90)
     forward(10)
     pendown()
@@ -25,32 +17,21 @@ for stap in range(12):
     penup()
     backward(160)
     left(90)
-    write(stap, align = 'center')
+    write(step, align = 'center')
     forward(20)
---- /code ---
-</div>
+```
 
-<div class="c-project-output">
-![nummers 0 tot en met 11 met verticale lijnen voor de baan en schildpadden aan de linkerkant](images/step_7.png)
-</div>
+> [!TIP]
+>
+> - `pendown()` start het tekenen van de baanmarkeringen.
+> - `penup()` tilt de pen op, zodat je kunt bewegen zonder te tekenen.
 
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-- `pendown()` start het tekenen van de baanmarkeringen.
-- `penup()` tilt de pen op, zodat je kunt bewegen zonder te tekenen.
-
-</div>
-
-### Foutopsporing
-
-<div class="c-project-callout c-project-callout--debug">
-
-- Als jouw lijnen de verkeerde kant op gaan, controleer dan de bochten naar rechts (`right(90)`) en naar links (`left(90)`).
-
-</div>
+> [!DEBUG]
+>
+> - Als jouw lijnen de verkeerde kant op gaan, controleer dan de bochten naar rechts (`right(90)`) en naar links (`left(90)`).
 
 ## Voer nu je code uit
 
 Voer je code uit en controleer of er verticale ljnen voor de banen onder de nummers worden getekend.
+
+![numbers 0 to 11 with vertical lane lines and turtles on the left](images/step_7.png)
