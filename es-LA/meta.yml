@@ -1,0 +1,23 @@
+title: Carrera de tortugas
+hero_image: images/banner.png
+description: Usa la opción aleatoria para hacer competir a dos tortugas. La primera en llegar a la meta gana.
+version: 1
+listed: true
+copyedit: false
+last_tested: "2025-01-01"
+landing: true
+steps:
+  - title: Añade una tortuga
+  - title: Añade otra tortuga
+    completion:
+      - engaged
+  - title: Añade una tercera tortuga
+  - title: Añade la cuarta tortuga
+  - title: Get the track pen ready
+  - title: Numera la pista
+    completion:
+      - internal
+  - title: Dibuja las marcas de la carrera
+  - title: Comienza la carrera
+    completion:
+      - external
