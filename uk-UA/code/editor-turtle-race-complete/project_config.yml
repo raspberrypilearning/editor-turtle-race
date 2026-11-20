@@ -1,0 +1,4 @@
+name: "Перегони черепах завершено"
+identifier: "editor-turtle-race-complete"
+type: "python"
+build: true
